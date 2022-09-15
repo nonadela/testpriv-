@@ -1,0 +1,55 @@
+<!DOCTOTYPE HTML>
+
+	<html>
+		<head>
+			<title>L'ATELIER</title>
+			<meta charset="utf-8">
+			<link rel="stylesheet" type="text/css" href="style1.css">
+  		
+  		<STYLE>
+			a:hover {  color: #39B817; text-decoration: none}
+		</STYLE>
+
+	
+		</head>
+
+<body>
+
+
+
+<div >
+ <img id="id0b"src="../photos/logo3.png" alt="logo_orange" />
+<pre <p id="id0">    Dylan Berrichi </pre> <br>
+<p id="id0c"> <strong>Sophrologue Caycédien</strong></p>
+
+
+<nav>
+<a class="class2" id="id1" href="page1.HTML">Accueil </a> 
+<a class="class2" id="id2" href="page2.HTML">Pratique</a>
+<a class="class2" id="id3" href="page3.HTML">Tarifs</a>
+<a class="class2" id="id4" href="page4.HTML">FAQ </a>
+<a class="class2" id="id4b" href="page5.HTML">Contact</a>  
+</nav>
+<img id="id6"src="../photos/bandeauplante.png" alt=plante">
+<p id="id13">" L'essentiel n'est pas de vivre, mais de bien vivre..."</p>
+<p id="id14">Platon</p>
+<div>
+<a href="https://www.instagram.com/sophrologiemeditation/?hl=fr"><img id="id7"src="../photos/logoinsta.png" alt="logoinsta"> </a> <br>
+<a href="https://fr-fr.facebook.com/sophrologieactualite/"><img id="id8"src="../photos/logo-facebook.png" alt="logo-fbk"> </a><br>
+<a href="https://www.doctolib.fr/sophrologue"><img id="id9"src="../photos/doctordv.webp" alt="rdv"> </a><br>
+</div>
+
+
+
+<footer>
+<div> <p class="class7"> <strong>Dylan Berrichi</strong> <br> - Sophrologue certifiée FEPS -<br>
+7 rue de la grande Brasserie Résidence terrasse de la bassée 59000 LILLE <br>Sophrologie à Lille, Marcq-en-Baroeul, Bondues, Marquette-Lez-Lille, Wambrechies, La Madeleine, Lambersart, Lomme,<br> Saint-André, Wasquehal, Croix, Roubaix, Tourcoing, Loos,Seclin, Faches-Thumesnil, Wattignies, Haubourdin, Wavrin Copyright 2022 <br> © Dylan Berrichi
+<a class="class7" href="lienàmettre"> Mentions légales </a></p>
+
+</div>
+
+</footer>
+	
+</body>
+
+</html>
